@@ -1,0 +1,5 @@
+"*.dll" 
+"*.pdb" 
+"*.onnx" 
+"build_win/" 
+"deps/" 
