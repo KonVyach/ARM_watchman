@@ -1,0 +1,5 @@
+C:/Users/User/Downloads/scaner-main/scaner-main/build_win/CMakeFiles/facecontrol.dir
+C:/Users/User/Downloads/scaner-main/scaner-main/build_win/CMakeFiles/edit_cache.dir
+C:/Users/User/Downloads/scaner-main/scaner-main/build_win/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Downloads/scaner-main/scaner-main/build_win/CMakeFiles/facecontrol_autogen_timestamp_deps.dir
+C:/Users/User/Downloads/scaner-main/scaner-main/build_win/CMakeFiles/facecontrol_autogen.dir
